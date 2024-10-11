@@ -43,3 +43,5 @@ async function fetchData() {
   } catch (error) {
     console.error('Erro ao buscar dados:', error);
   }
+```
+
